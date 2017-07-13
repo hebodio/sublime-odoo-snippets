@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+_logger.info('\n\n\n\n ${1}: %s\n\n\n\n'%(${1}))
+]]></content>
+    <tabTrigger>_loggertest</tabTrigger>
+    <scope>source.python</scope>
+    <description>Logger para pruebas de variables dentro de ejecuciones de métodos.</description>
+</snippet>
